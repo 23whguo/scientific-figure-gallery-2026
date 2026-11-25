@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://23whguo.github.io/scientific-figure-gallery-2026/sitemap.xml

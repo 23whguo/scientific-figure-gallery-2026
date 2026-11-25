@@ -1,0 +1,66 @@
+{
+  "schema": 1,
+  "title": "科研图鉴 · Figure Atlas",
+  "year": 2026,
+  "updated_at": "2026-11-25T17:40:55.436003+00:00",
+  "count": 2831,
+  "papers": 2117,
+  "venues": {
+    "iclr": 1017,
+    "cvpr": 660,
+    "acl": 983,
+    "emnlp": 171
+  },
+  "types": {
+    "overview": {
+      "zh": "框架总览",
+      "en": "Framework overview"
+    },
+    "flow": {
+      "zh": "流程图",
+      "en": "Workflow"
+    },
+    "architecture": {
+      "zh": "架构图",
+      "en": "Architecture"
+    },
+    "benchmark": {
+      "zh": "Benchmark 图",
+      "en": "Benchmark"
+    },
+    "survey": {
+      "zh": "综述图",
+      "en": "Survey"
+    },
+    "concept": {
+      "zh": "概念图",
+      "en": "Concept"
+    },
+    "contrast": {
+      "zh": "比较图",
+      "en": "Method comparison"
+    },
+    "comparison": {
+      "zh": "结果对比",
+      "en": "Results comparison"
+    },
+    "statistics": {
+      "zh": "数据统计",
+      "en": "Data statistics"
+    },
+    "visualization": {
+      "zh": "数据展示图",
+      "en": "Data visualization"
+    },
+    "other": {
+      "zh": "其他",
+      "en": "Other"
+    },
+    "uncertain": {
+      "zh": "待确认",
+      "en": "Uncertain"
+    }
+  },
+  "source": "Manually selected figures; JEV/CLEF primary and secondary classification",
+  "reference": "https://github.com/qwdwqfwq/topconf-paper-figure-gallery"
+}

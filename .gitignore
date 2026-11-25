@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+.venv/
+node_modules/
+.env
+.env.*
+*.log
+test-artifacts/
+*.pptx
+*.ppt
+*.dpapi
+*.pem
+source.archive
+source.partial
+Thumbs.db
+.DS_Store
